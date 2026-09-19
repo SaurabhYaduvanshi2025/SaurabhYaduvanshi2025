@@ -1,89 +1,122 @@
 <div align="center">
 
-# SAURABH YADAV
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=Saurabh%20Yadav&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=20" />
 
-### Full Stack Web Developer
+### Building Web Applications • CRM Systems • Business Software
 
-**PHP · React · Node.js · Express.js · MySQL**
-
-Building web applications, CRM systems & business software.
-
-<br />
+<br>
 
 <a href="https://protfolio-gilt-chi.vercel.app/">
-  <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-2563EB?style=for-the-badge&logoColor=white" />
 </a>
-&nbsp;
+
 <a href="https://github.com/SaurabhYaduvanshi2025">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/💻%20GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## About
+## 👋 About Me
 
-I build practical web applications for real-world use cases.
+I'm **Saurabh Yadav**, a Full Stack Web Developer focused on building practical web applications and business-focused software.
 
-My work covers frontend development, backend systems, databases and business workflows — including **CRM platforms, admin panels, lead management systems, CMS solutions and custom web applications**.
+I work across the stack — from responsive interfaces and React applications to backend systems, databases, APIs and administrative platforms.
 
-I work across the stack, from building responsive interfaces with **React and JavaScript** to developing backend applications and APIs with **PHP, Node.js and Express.js**.
+My development work includes:
 
----
+- CRM & Lead Management Systems
+- Business Management Applications
+- Admin Panels & Dashboards
+- Custom Web Applications
+- CMS & Database-driven Systems
+- E-commerce & Ordering Platforms
+- REST APIs & Backend Services
 
-## What I Build
-
-| Area | Focus |
-| --- | --- |
-| **Business Software** | CRM, lead management, admin panels & dashboards |
-| **Web Applications** | Custom applications & database-driven systems |
-| **Frontend Development** | React, JavaScript, Tailwind CSS |
-| **Backend Development** | PHP, Node.js, Express.js & REST APIs |
-| **Database Systems** | MySQL, MongoDB & application data design |
-| **E-commerce** | Ordering systems, carts & payment workflows |
+I prefer building applications around real requirements rather than creating projects only for demonstration.
 
 ---
 
-## Tech Stack
+## 🧩 What I Build
+
+<div align="center">
+
+| 💼 Business Software | 🌐 Web Applications |
+|:---:|:---:|
+| CRM Systems | Custom Web Apps |
+| Lead Management | E-commerce |
+| Admin Panels | CMS |
+| Dashboards | Ordering Systems |
+
+| ⚙️ Backend Systems | 🗄️ Data & APIs |
+|:---:|:---:|
+| PHP Applications | MySQL |
+| Node.js | MongoDB |
+| Express.js | REST APIs |
+| Authentication | CRUD Systems |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend
 
-`React` `JavaScript` `HTML5` `CSS3` `Tailwind CSS`
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" />
+</p>
 
 ### Backend
 
-`PHP` `Node.js` `Express.js` `REST APIs`
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff" />
+</p>
 
 ### Database
 
-`MySQL` `MongoDB`
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff" />
+</p>
 
 ### Tools & Environment
 
-`Git` `GitHub` `VS Code` `Linux`
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" />
+</p>
 
 ---
 
-## Selected Work
+## 🚀 Selected Projects
 
-### CRM & Business Management
+### 🏢 CRM & Business Management
 
-Business-focused applications for managing customers, leads, records, users and administrative workflows.
+Business-focused applications designed around customer records, leads, users, administrative workflows and database-driven operations.
 
 **PHP · MySQL · JavaScript**
 
 ---
 
-### Nutri Afghan
+### 🍔 Nutri Afghan
 
-A food ordering platform with authentication, menu management, cart functionality, comments, delivery workflow and Razorpay integration.
+A full-stack food ordering platform with authentication, menu management, cart functionality, comments, delivery workflow and Razorpay integration.
 
 **PHP · MySQL · JavaScript · Tailwind CSS**
 
 ---
 
-### OntimeoceanIT
+### 🌐 OntimeoceanIT
 
 A business web application with an admin panel, authentication, database-driven content and lead management.
 
@@ -91,42 +124,62 @@ A business web application with an admin panel, authentication, database-driven 
 
 ---
 
-### React Projects
+### ⚛️ React Applications
 
-Frontend applications built with **React**, focusing on reusable components, state management, events, forms and modern JavaScript development.
+React-based applications focused on reusable components, state, events, forms, responsive interfaces and modern JavaScript development.
 
 **React · Vite · JavaScript · Tailwind CSS**
 
 ---
 
-### Node.js & Express Applications
+### 🟢 Node.js & Express Applications
 
-Backend applications and REST APIs built with **Node.js and Express.js**, focusing on server-side logic, API development and database integration.
+Backend applications and REST APIs built with Node.js and Express.js, focusing on server-side logic, API development and database integration.
 
 **Node.js · Express.js · REST APIs · MySQL**
 
 ---
 
-## Current Focus
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SaurabhYaduvanshi2025&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhYaduvanshi2025&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhYaduvanshi2025&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+---
+
+## 🔭 Currently Working On
 
 ```text
 Frontend
-├── React
-├── JavaScript
-├── Component Architecture
-└── Modern UI Development
+ ├── React
+ ├── JavaScript
+ ├── Component Architecture
+ └── Responsive UI
 
 Backend
-├── Node.js
-├── Express.js
-├── PHP
-└── REST APIs
+ ├── Node.js
+ ├── Express.js
+ ├── PHP
+ └── REST APIs
 
 Database
-├── MySQL
-└── MongoDB
+ ├── MySQL
+ └── MongoDB
 
-Engineering
-├── Git & GitHub
-├── Linux
-└── Clean, maintainable code
+Development
+ ├── Git & GitHub
+ ├── Linux
+ └── Clean & Maintainable Code
